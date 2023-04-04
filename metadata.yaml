@@ -1,5 +1,5 @@
 homepage: "https://essentials.cheq-platform.com"
 documentation: "https://cheqessentials.zendesk.com/hc/en-us/articles/14279969610641"
 versions:
-  - sha: 1151328b52bca46ec6ded1160f9ee7d175bc46c6
-    changeNotes: Change template code.
+  - sha: c883bafc78615766f969ce6c030bd7f939beaf84
+    changeNotes: LICENSE update.
