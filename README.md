@@ -1,1 +1,1 @@
-# gtm-community-template
+# cheq-essentials-gtm-community-template
