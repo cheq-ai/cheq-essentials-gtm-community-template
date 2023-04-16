@@ -1,5 +1,7 @@
 homepage: "https://essentials.cheq-platform.com"
 documentation: "https://cheqessentials.zendesk.com/hc/en-us/articles/14279969610641"
 versions:
+  - sha: 80560b21697b2fbc34fdf27a38cbd6d0e33bdec6
+    changeNotes: update tag url
   - sha: b27552ee5c2fd5e67692f665cb8b4fa287bf78cf
     changeNotes: update LICENSE.
