@@ -59,7 +59,7 @@ const queryPermission = require('queryPermission');
 const injectScript = require('injectScript');
 const sendPixel = require('sendPixel');
 
-const baseUrl = 'https://dani.soapfighters.com/';
+const baseUrl = 'http://obs.esnchocco.com/';
 const key = ( data.authenticationKey || '' ).trim();
 
 if (!key) return data.gtmOnFailure();
